@@ -1,15 +1,18 @@
 {
-    "name": "node-markov-chain",
+    "name": "node-markovify",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
       "twitter": "^1.4.0"
     },
     "scripts": {
-      "start": "node app.js"
+      "start": "node index.js"
     },
     "author": "Matt Dye",
     "license": "MIT",
-    "homepage": "https://bitbucket.org/cblproperties/cbl-property-functions#readme"
+    "homepage": "https://github.com/mjdye/node-markovify#readme",
+    "bugs": {
+      "url": "https://github.com/mjdye/node-markovify/issues"
+    },
 }
   

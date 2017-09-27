@@ -7,6 +7,7 @@ A Markov Chain library implemented in Node.js. Included is Markov Chain implemen
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Requirements](#requirements)
 * [Examples](#examples)
 
 
@@ -14,12 +15,18 @@ A Markov Chain library implemented in Node.js. Included is Markov Chain implemen
 
 The cloudCompose tool is available on NPM, and should be installed globally.
 ```bash
-npm install --save node-markov-chain
+npm install --save node-markovify
 ```
 
 ## <a name="usage"></a>Usage
 ### Usage:
 
+## <a name="requirements"></a>Usage
+### Requirements:
+Twitter node module: https://www.npmjs.com/package/twitter can be installed by running:
+```bash
+npm install
+```
 
 ## <a name="Examples"></a>Exmples
 
