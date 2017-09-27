@@ -15,12 +15,12 @@ var options = {
     getLocalTweets:useLocalTweets,
     state_size:state_size,
     search_string: '#takeaknee' + filters,
-    numTweetsToFetch: 5000,
+    numTweetsToFetch: 100,
     numTweetsToPredict: 10
 }
 
 var thisMarkovTwitter = new markovTwitter(options);
-thisMarkovTwitter.generateMarkovTweets(options,function(tweets){
+thisMarkovTwitter.getTweets(options,function(tweets){
     console.log(tweets)
 });
 
