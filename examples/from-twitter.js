@@ -1,8 +1,8 @@
 var markovTwitter = require('../lib/markov-twitter.js');
-var consumer_key = "y2lRfBki6MtorTiNEqZkftYJO";
-var consumer_secret = "Z5SVfr6qPYZAIc3E2asaWD33zMTazIPrIIVTaFyyIQETiSLAkT";
-var access_token_key = "183662815-gA4MDQMhNIP1ZBHWEMOE5CiBMv8ovH1mpwkLs64t";
-var access_token_secret = "NTV6bsdSmGXQT46kQpoMGQHDw9TQjjWshluheDQXx0MzA";
+var consumer_key = "your_consumer_key_here";
+var consumer_secret = "your_consumer_secret_here";
+var access_token_key = "your_access_token_here";
+var access_token_secret = "your_access_token_secret_here";
 var useLocalTweets = true;
 var filters = ' -filter:retweets -filter:media';
 var state_size = 2;

@@ -13,7 +13,7 @@ A Markov Chain library implemented in Node.js. Included is Markov Chain implemen
 
 ## <a name="installation"></a>Installation
 
-The cloudCompose tool is available on NPM, and should be installed globally.
+node-markovify is available on NPM:
 ```bash
 npm install --save node-markovify
 ```
