@@ -1,0 +1,15 @@
+{
+    "name": "node-markov-chain",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+      "twitter": "^1.4.0"
+    },
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "Matt Dye",
+    "license": "MIT",
+    "homepage": "https://bitbucket.org/cblproperties/cbl-property-functions#readme"
+}
+  
