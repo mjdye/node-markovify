@@ -2,7 +2,6 @@
   "name": "node-markovify",
   "version": "0.0.10",
   "description": "A markov chain implementation, with complete usage for text and Tweets",
-  "dependencies": {},
   "scripts": {
     "start": "node index.js"
   },
@@ -10,9 +9,9 @@
   "license": "MIT",
   "homepage": "https://github.com/mjdye/node-markovify#readme",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/mjdye/node-markovify.git"
-  },    
+    "type": "git",
+    "url": "https://github.com/mjdye/node-markovify.git"
+  },
   "bugs": {
     "url": "https://github.com/mjdye/node-markovify/issues"
   }
