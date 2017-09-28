@@ -1,6 +1,6 @@
 {
   "name": "node-markovify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A markov chain implementation, with complete usage for text and Tweets",
   "scripts": {
     "start": "node index.js"
