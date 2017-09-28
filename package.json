@@ -1,9 +1,8 @@
 {
   "name": "node-markovify",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "",
-  "dependencies": {
-  },
+  "dependencies": {},
   "scripts": {
     "start": "node index.js"
   },
