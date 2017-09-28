@@ -1,6 +1,8 @@
-## node-markov-chain
+## node-markovify
 
 A Markov Chain library implemented in Node.js. Included is Markov Chain implementation for Text and one utilizing the Twitter API to predict tweets.
+
+Functionality is in it's earliest stages and will be upgraded frequently in the coming days.
 
 
 ## Contents
