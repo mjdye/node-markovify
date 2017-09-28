@@ -1,6 +1,6 @@
 {
   "name": "node-markovify",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "dependencies": {
     "twitter": "^1.4.0"
