@@ -26,8 +26,8 @@ var thisMarkovText = new markovText(options);
 ```
 #### Markov Twitter Only
 ```javascript
-var markovText = require('node-markovify').markovText;
-var thisMarkovText = new markovText(options);
+var markovTwitter = require('node-markovify').markovTwitter;
+var thisMarkovTwitter = new markovTwitter(options);
 ```
 
 ## <a name="options"></a>Options Examples
