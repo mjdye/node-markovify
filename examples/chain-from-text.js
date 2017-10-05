@@ -10,7 +10,8 @@ fs.readFile('text/sherlock.txt','utf-8',function(err,text){
     console.log(thisMarkovText.predict({
         init_state:null,
         max_chars:150,
-        numberOfSentences:10
+        numberOfSentences:10,
+        popularFirstWord: true
     })); 
 });
 
